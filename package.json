@@ -1,0 +1,16 @@
+{
+  "name": "budgety",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "http://vercettizarak.github.io//budgety",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
